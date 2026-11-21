@@ -9,8 +9,7 @@ so as to answer why this project its mostly as i said to make a student portfoli
 The programing part wont be too much as i already know python and i feel like i hve enoughh rogramming logic than electronic logic which is why this project will help me enhance it.
 
 
-###Features 
-
+### Features 
 It will have all the normal key features of a robotic arm; have 3 degrees of freedom, catch things, and yeah...
 But i will try to make it as unique as i can and make it be like my own project and make my own desins where prossible i will also use some help from youtube as to see how i should even start.
 
